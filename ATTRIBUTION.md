@@ -1,0 +1,1 @@
+This repository is a fork of https://github.com/dapr/dapr. It is used for demonstration purposes of the Sentinel Agent. The original project is licensed under the  MIT License license, a copy of which is included in the LICENSE file. All original copyrights and trademarks belong to their respective owners
